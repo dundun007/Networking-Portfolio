@@ -1,6 +1,16 @@
 # Networking Portfolio
 
-A collection of writeups written for both a cybersecurity and CCNP networking course. Each writeup follows the format of: Purpose, Background Concepts, Lab Summary, Lab Commands, Network Diagram, Configurations, Problems, and Conclusion. 
+A collection of writeups written for both a cybersecurity and CCNP networking course. 
+
+Each writeup follows the format of: 
+- Purpose
+- Background Concepts
+- Lab Summary
+- Lab Commands
+- Network Diagram
+- Configurations
+- Problems
+- Conclusion
 
 ## CCNP
 
